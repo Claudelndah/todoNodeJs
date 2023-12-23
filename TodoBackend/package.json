@@ -1,0 +1,27 @@
+{
+  "name": "todobackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Claudelndah/todoNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claudelndah/todoNodeJs/issues"
+  },
+  "homepage": "https://github.com/Claudelndah/todoNodeJs#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "nodemon": "^3.0.2"
+  }
+}
